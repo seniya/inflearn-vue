@@ -1,0 +1,12 @@
+{
+  "editor.fontFamily": "D2Coding ligature",
+  "editor.fontSize": 16,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "eslint.workingDirectories": [
+    "./vue-learn"
+  ],
+  "[javascript, vue]": {
+    "editor.formatOnSave": true
+  }
+}
